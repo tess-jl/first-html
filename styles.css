@@ -1,0 +1,31 @@
+.paragraphs {
+    color:pink;
+    border: solid 2px black;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    font-size: 14px;
+}
+
+#perfect-header {
+    color: gold;
+}
+
+.beginning {
+    border: dashed 2px black;
+    padding: 100px; 
+    margin: 10px; 
+}
+
+#logo {
+    height: 50px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
