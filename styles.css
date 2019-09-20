@@ -29,3 +29,28 @@ header {
     display: flex;
     justify-content: space-around;
 }
+
+section {
+    border: 1px solid black; 
+    width: 400px;
+    text-align: center;
+    background: maroon;
+    color: white; 
+    font-family: sans-serif
+}
+
+.greeting {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.name-box {
+    background: white; 
+    color: black;
+    font-family: cursive;
+    font-size: 4em;
+    line-height: 3;
+    height:200px;
+    width: 100%;
+    margin: 0; 
+}
