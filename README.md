@@ -1,1 +1,3 @@
-# first-html
+# Blog Page Exercise 
+
+### Static HTML, CSS
